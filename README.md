@@ -1,3 +1,3 @@
 # Portfolio Site.
 
-## [Click Here]() to view the deployed site.
+## [Click Here](https://portfoliosandeep.netlify.app/#home) to view the deployed site.
